@@ -1,3 +1,5 @@
+
+
 html {
     font-size: 62.5%;
     box-sizing: border-box;
@@ -7,6 +9,15 @@ html {
     margin: 0;
     padding: 0;
     box-sizing: inherit;
+  }
+
+  .calculator-title {
+    font-size: large;
+    margin: auto;
+    text-align: center;
+    width: 50%;
+    padding: 70px 0;
+
   }
 
   .calculator {
